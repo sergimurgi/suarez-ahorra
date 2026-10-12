@@ -1,0 +1,18 @@
+SUÁREZ AHORRA — correcciones incorporadas en esta versión
+
+- Se incorporaron logos originales recibidos para Mascotas, Indumentaria, Insumos, Joyerías/Regalerías, Librerías/Cotillón y Servicios.
+- La Cucha, Veterinaria Martín Fierro y El Club de las Mascotas tienen sus logos originales.
+- Se corrigió Fauna a Sarmiento 72 (sin Santa Trinidad).
+- Granja La Alemana: Montevideo 1120, Santa Trinidad.
+- Frigorífico Las Cuñadas: Av. Casey esquina Urquiza.
+- El Ángel de la Carne: Av. Sixto Rodríguez 1241.
+- VB figura como Valeria Bentos.
+- WK Services: dirección Santa Trinidad.
+- Eugenia Villalba queda en Servicios Profesionales, con el logo EV.
+- DEMO Express queda con la escritura corregida.
+- 100% Casero fue quitado de Alimentos y Bebidas.
+- Rapipago queda como ficha independiente; se separó del nombre Kiosco Balcarce.
+- Andreani y Cobro Express tienen fichas separadas.
+- Se agregaron fichas para los logos enviados de librerías, insumos, joyerías/regalerías y Tato Rotisería.
+
+Importante: La Cresta Pollería está incorporada en la página de Alimentos, pero no se encontró un archivo original independiente de su logo en los archivos disponibles de esta sesión; por eso no se reemplazó con un recorte de una página de la guía. Las direcciones y teléfonos que no fueron confirmados se dejan vacíos en vez de inventarlos.

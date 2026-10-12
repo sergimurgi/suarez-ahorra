@@ -1,0 +1,25 @@
+Suárez Ahorra — versión de revisión de correcciones
+
+- Conserva el diseño original de la aplicación.
+- Alimentos y Bebidas: segunda página completada con Carnicería Abigail, Moka Bakery, DistriSúa, Frigorífico Las Cuñadas, Kiosco Balcarce, Granja La Alemana, El Ángel de la Carne, La Cresta Pollería, Pollería Pehuenia y KiosKito 24/7. Dirección de Moka corregida a Hipólito Yrigoyen esquina Sargento Cabral.
+- Farmacias y Salud: asignados los logos de Fonzo, Gómez, Del Pueblo, Schuvab y Dr. Sergio Mainini.
+- Fiestas y Eventos: logos de Iujuu y Quincho Las Vega.
+- Hogar: logos asignados a los ocho comercios de la captura.
+- Indumentaria: logos asignados por comercio; Morada se mantiene con su logo correcto.
+- Insumos: eliminados duplicados de AriCar/Descartables; AriCar Electricidad queda separada y Descartables conserva su logo.
+- Joyerías: cuatro comercios, sin duplicados, con logos correspondientes.
+- Librerías: cinco comercios, sin duplicados, con logos correspondientes.
+- Mascotas: La Cucha, Veterinaria Martín Fierro, El Club de las Mascotas y La Casita de Belu, una ficha por comercio.
+- Restaurantes: logo de Tato agregado; no se agrega página adicional ni se incluye 100% Casero.
+- Servicios: una ficha de Lavadero C&P, Rapipago independiente y Cobro Express/Andreani combinados. DEMO Express queda escrito correctamente.
+- Direcciones y teléfonos resaltados en negrita en tarjetas y fichas.
+
+Versión para revisión. Verificar en navegador antes de publicar.
+
+Correcciones adicionales aplicadas el 12/10/2026:
+- Pural: logo original correcto.
+- Descartables Coronel Suárez: logo original correcto.
+- Joyerías: logos originales de Schnegelberger, Pétalos Deco 62, Para Siempre y Sol y Luna.
+- Indumentaria: corrección de logos identificados para Aura Active, Chill, Con H, Lunéa, Menta Babys, Lola Narsh, María Modas, Íntima y Moda Urbana; Morada se conserva.
+- Restaurantes: logo original de Tato y Punto Casero.
+- Servicios: logo combinado Cobro Express + Andreani.
